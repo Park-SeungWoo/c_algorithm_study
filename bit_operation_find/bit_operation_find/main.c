@@ -18,5 +18,5 @@ int find_bit(int d){
 };
 
 int main() {
-    printf("%d\n", find_bit(19));
+    printf("%d\n", find_bit(257));
 }
